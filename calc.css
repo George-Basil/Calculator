@@ -1,0 +1,37 @@
+
+.main{
+    width: 20%;
+    height: 500px;
+    background-color: gray;
+    margin-top: 6px;
+    margin-left: 25%;
+    border: hidden;
+    position:absolute;
+
+}
+#displaybox{
+    background-color: honeydew;
+    border: indigo;
+    height: 45px;
+    width: 85%;
+    margin-left:7%;
+    margin-right: 7%;
+    margin-top: 25px;
+    margin-bottom: 25px;
+
+}
+#digits{
+    margin:10%;
+}
+.raw1{
+    margin:5%;
+    padding: 0px;
+    display: flex;
+    justify-content: space-between;
+}
+.btn{
+    height: 40px;
+    width:40px;
+}
+
+
